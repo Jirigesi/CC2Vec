@@ -1,7 +1,6 @@
 # CC2Vec: Distributed Representations of Code Changes [[pdf](https://arxiv.org/pdf/2003.05620.pdf)]
 
 ## Contact
-Questions and discussion are welcome: vdthoang.2016@smu.edu.sg
 
 ## Implementation Environment
 
@@ -13,14 +12,6 @@ Please install the neccessary libraries before running our tool:
 - nltk==3.4.5
 - numpy==1.16.5
 - scikit-learn==0.22.1
-
-## Data & Pretrained models:
-
-Please following the link below to download the data and pretrained models of our paper. 
-
-- https://drive.google.com/file/d/1rPYGjw87YMNAdb2_2baO967i7ynp8sa2/view?usp=sharing
-
-After downloading, simply copy the data and model folders to CC2Vec folder. 
 
 ## Hyperparameters:
 We have a number of different parameters (Note that the number of hyperparameters is different depends on different tasks)
