@@ -82,4 +82,4 @@ We have a number of different parameters (Note that the number of hyperparameter
 
 ## Contact
 
-Questions and discussion are welcome: vdthoang.2016@smu.edu.sg
+Questions and discussion are welcome:
